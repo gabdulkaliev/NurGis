@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Павлодар</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Ближайшие объекты к дому</b> <BR>
+        Белый Ветер, Wildberries, БИЛ, Евразийский Банк и Учебный КУИС МВД РК<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Белый Ветер</string>
+    <string name="marker1_txt_click">Белый Ветер</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Белый Ветер
+           </b><BR>
+        — российская компания, работающая в области розничной торговли и электронной коммерции,<BR>
+        Полное наименование — Общество с ограниченной ответственностью «Белый Ветер Цифровой».<BR>
+        Телефон: 8 (771) 920 19 20<BR>
+        Сайт: https://shop.kz<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/BV/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Wildberries</string>
+    <string name="marker2_txt_click">Wildberries</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>АО «Wildberries» </b> <BR>  — международный маркетплейс одежды, обуви, электроники, детских товаров, товаров для дома и других товаров.<BR>
+        Работает в России, США, Франции, Италии, Испании, Белоруссии, Казахстане<BR>
+        Телефон: +7 727 356 00 54 <BR>
+        Сайт: https://www.wildberries.ru<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/WB/index.html</string>
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">БИЛ</string>
+    <string name="marker3_txt_click">BIL</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>BIL
+           </b><BR>
+        сеть школ для особо одарённых детей под руководством<BR>
+         Международного общественного фонда «Bilim - Innovation» в Казахстане.<BR>
+        Около 4000 учащихся КТЛ (БИЛ) становились победителями и призёрами международных интеллектуальных олимпиад.<BR>
+        Телефон: +7 7182 31 03 62<BR>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/BIL/index.html</string>
+
+    <!--  -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Евразийский Банк</string>
+    <string name="marker4_txt_click">Eurasion Bank</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Евразийский банк </b> <BR> казахстанский коммерческий банк. <BR>
+        Предоставляет широкий спектр банковских услуг.<BR>
+        Головной офис находится в Алматы. <BR>
+        Телефон: +7 7182 90 39 03 <BR>
+        Сайт: https://eubank.kz<BR>
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/EURASIA/index.html</string>
+
+    <!--  -->
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Учебный центр КУИС МВД РК</string>
+    <string name="marker5_txt_click">Учебный центр КУИС МВД РК</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>Учебный центр КУИС МВД РК </b> <BR>  — РЕСПУБЛИКАНСКОЕ ГОСУДАРСТВЕННОЕ УЧРЕЖДЕНИЕ "УЧЕБНЫЙ ЦЕНТР КОМИТЕТА УГОЛОВНО-ИСПОЛНИТЕЛЬНОЙ <BR>
+        СИСТЕМЫ МИНИСТЕРСТВА ВНУТРЕННИХ ДЕЛ РЕСПУБЛИКИ КАЗАХСТАН"<BR>
+        Телефон: +7 701 328 70 37 <BR>
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/KUIS/index.html</string>
+
+</resources>

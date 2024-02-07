@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_margin="05dp">
+
+    </LinearLayout>
+    <ScrollView
+        android:id="@+id/sv1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f4f4c6"
+        android:gravity="center_vertical|center_horizontal">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:id="@+id/textViewInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="all"
+                android:background="#f4f4c6"
+                android:clickable="true"
+                android:gravity="center_vertical|center_horizontal"
+                android:minHeight="50dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textIsSelectable="false"
+                tools:ignore="SpeakableTextPresentCheck" />
+        </TableRow>
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

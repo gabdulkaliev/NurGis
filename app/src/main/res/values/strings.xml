@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NUR_Gis_v3</string>
+    <string name="title_activity_maps">NurGis_Pavlodar</string>
+    <string name="selectOb">Выберите нужный объект</string>
+    <string name="selectMarker">selectMarker</string>
+    <string name="title_activity_detail">Map</string>
+    <string name="detail">Подробно…</string>
+    <string name="normal">Нормально</string>
+    <string name="terrain">Рельеф</string>
+    <string name="satellite">Спутник</string>
+    <string name="start">Стартовое положение</string>
+    <string name="back">НАЗАД</string>
+    <string name="tMarker">tMarker</string>
+    <string name="mfile">mfile</string>
+</resources>
