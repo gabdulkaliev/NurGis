@@ -49,4 +49,10 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
         });
     }
 ```
-![one]()
+![one](https://github.com/gabdulkaliev/NurGis/blob/main/one.png)
+___
+### Смена режима отображения и другие объекты
+![two](https://github.com/gabdulkaliev/NurGis/blob/main/two.png)
+___
+### Спутниковое отображение карты 
+![three](https://github.com/gabdulkaliev/NurGis/blob/main/three.png)
